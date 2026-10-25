@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2498741612
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2560ba350af6daec197528fe6cb9495
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b2560ba350af6daec197528fe6cb9495
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/QualityIcon/LowIcon.png
+- Assets/Resources/Icons/mat_30003.png
+- Assets/Resources/Icons/weapon_10001.png
+- Assets/Resources/Icons/mat_30007.png
+- Assets/Resources/Icons/mat_30001.png
+- Assets/Resources/Icons/weapon_10002.png
+- Assets/Resources/Icons/drive_20002.png
+- Assets/Resources/Icons/mat_30004.png
+- Assets/Resources/QualityIcon/HighIcon.png
+- Assets/Resources/Icons/mat_30008.png
+- Assets/Resources/QualityIcon/MidIcon.png
+- Assets/Resources/Icons/mat_30009.png
+- Assets/Resources/Icons/mat_30002.png
+- Assets/Resources/QualityIcon/LastIcon.png
+- Assets/Resources/Icons/mat_30005.png
+- Assets/Resources/Icons/drive_20003.png
+- Assets/Resources/Icons/mat_30006.png
+- Assets/Resources/Icons/drive_20001.png
+Dependencies: []

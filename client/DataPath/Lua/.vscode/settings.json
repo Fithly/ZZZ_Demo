@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "CS",
+        "typeof"
+    ],
+    "Lua.diagnostics.disable": [
+        "need-check-nil",
+        "undefined-global"
+    ]
+}

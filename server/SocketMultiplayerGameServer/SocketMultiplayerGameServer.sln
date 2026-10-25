@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketMultiplayerGameServer", "SocketMultiplayerGameServer\SocketMultiplayerGameServer.csproj", "{DBD0FCD7-3009-4582-A655-B14058A88F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD0FCD7-3009-4582-A655-B14058A88F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD0FCD7-3009-4582-A655-B14058A88F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD0FCD7-3009-4582-A655-B14058A88F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD0FCD7-3009-4582-A655-B14058A88F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB30D097-4778-43FF-A333-D4706D1F301C}
+	EndGlobalSection
+EndGlobal

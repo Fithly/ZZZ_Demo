@@ -1,0 +1,112 @@
+{
+    "Items": [
+        {
+            "ItemId": 30001,
+            "Name": "基础角色经验材料",
+            "Description": "用于角色等级提升的基础经验材料",
+            "IconKey": "mat_30001",
+            "ItemType": 3,
+            "Quality": 1,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 1,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30002,
+            "Name": "中级角色经验材料",
+            "Description": "用于角色等级提升的中级经验材料",
+            "IconKey": "mat_30002",
+            "ItemType": 3,
+            "Quality": 2,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 1,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30003,
+            "Name": "高级角色经验材料",
+            "Description": "用于角色等级提升的高级经验材料",
+            "IconKey": "mat_30003",
+            "ItemType": 3,
+            "Quality": 3,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 1,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30004,
+            "Name": "初级武器经验材料",
+            "Description": "用于武器等级提升的初级经验材料",
+            "IconKey": "mat_30004",
+            "ItemType": 3,
+            "Quality": 1,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 2,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30005,
+            "Name": "中级武器经验材料",
+            "Description": "用于武器等级提升的中级经验材料",
+            "IconKey": "mat_30005",
+            "ItemType": 3,
+            "Quality": 2,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 2,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30006,
+            "Name": "高级武器经验材料",
+            "Description": "用于武器等级提升的高级经验材料",
+            "IconKey": "mat_30006",
+            "ItemType": 3,
+            "Quality": 3,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 2,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30007,
+            "Name": "初级驱动盘经验材料",
+            "Description": "用于驱动盘等级提升的初级经验材料",
+            "IconKey": "mat_30007",
+            "ItemType": 3,
+            "Quality": 1,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 3,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30008,
+            "Name": "中级驱动盘经验材料",
+            "Description": "用于驱动盘等级提升的中级经验材料",
+            "IconKey": "mat_30008",
+            "ItemType": 3,
+            "Quality": 2,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 3,
+            "Attributes": []
+        },
+        {
+            "ItemId": 30009,
+            "Name": "高级驱动盘经验材料",
+            "Description": "用于驱动盘等级提升的高级经验材料",
+            "IconKey": "mat_30009",
+            "ItemType": 3,
+            "Quality": 3,
+            "MaxStack": 99,
+            "CanStack": true,
+            "PurposeType": 3,
+            "Attributes": []
+        }
+    ]
+}

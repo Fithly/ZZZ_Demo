@@ -1,0 +1,52 @@
+{
+    "Items": [
+        {
+            "ItemId": 10001,
+            "Name": "无尾刀",
+            "Description": "星见雅的磨牙刀",
+            "IconKey": "weapon_10001",
+            "ItemType": 1,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "StartNumber": 1,
+            "FunctionName": "基础增幅",
+            "BaseAttributionKey": "攻击力",
+            "AdvanceAttributionKey": "暴击率",
+            "Attributes": [
+                {
+                    "Key": "攻击力",
+                    "Value": 20.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.02
+                }
+            ]
+        },
+        {
+            "ItemId": 10002,
+            "Name": "般若",
+            "Description": "红烧狮子头",
+            "IconKey": "weapon_10002",
+            "ItemType": 1,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "StartNumber": 3,
+            "FunctionName": "无敌金身",
+            "BaseAttributionKey": "生命值",
+            "AdvanceAttributionKey": "暴击伤害",
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 100.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.04
+                }
+            ]
+        }
+    ]
+}

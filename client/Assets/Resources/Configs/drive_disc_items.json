@@ -1,0 +1,520 @@
+{
+    "Items": [
+        {
+            "ItemId": 20001,
+            "Name": "折纸剑歌[1]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 1,
+            "DiscNumber": 1,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "生命值",
+            "MinorAttributionKey": [
+                "暴击率",
+                "攻击力",
+                "防御值",
+                "生命值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20002,
+            "Name": "折纸剑歌[2]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 2,
+            "DiscNumber": 2,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "攻击力",
+            "MinorAttributionKey": [
+                "生命值",
+                "暴击伤害",
+                "生命值",
+                "防御值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20003,
+            "Name": "折纸剑歌[3]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 3,
+            "DiscNumber": 3,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "防御值",
+            "MinorAttributionKey": [
+                "攻击力",
+                "防御值",
+                "防御值",
+                "生命值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20004,
+            "Name": "折纸剑歌[4]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 4,
+            "DiscNumber": 4,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "暴击率",
+            "MinorAttributionKey": [
+                "防御值",
+                "暴击伤害",
+                "防御值",
+                "暴击伤害"
+            ],
+            "Attributes": [
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                }
+            ]
+        },
+        {
+            "ItemId": 20005,
+            "Name": "折纸剑歌[5]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 5,
+            "DiscNumber": 5,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "暴击伤害",
+            "MinorAttributionKey": [
+                "暴击率",
+                "暴击率",
+                "暴击伤害",
+                "防御值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20006,
+            "Name": "折纸剑歌[6]",
+            "Description": "不爱笑的狐狸爱听的歌",
+            "IconKey": "drive_20001",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 1,
+            "SlotType": 6,
+            "DiscNumber": 6,
+            "FunctionName": "折纸剑舞",
+            "MainAttributionKey": "攻击力",
+            "MinorAttributionKey": [
+                "暴击伤害",
+                "暴击率",
+                "攻击力",
+                "攻击力"
+            ],
+            "Attributes": [
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20007,
+            "Name": "云岿如我[1]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 1,
+            "DiscNumber": 1,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "生命值",
+            "MinorAttributionKey": [
+                "暴击率",
+                "攻击力",
+                "防御值",
+                "生命值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20008,
+            "Name": "云岿如我[2]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 2,
+            "DiscNumber": 2,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "攻击力",
+            "MinorAttributionKey": [
+                "暴击率",
+                "暴击率",
+                "暴击伤害",
+                "防御值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20009,
+            "Name": "云岿如我[3]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 3,
+            "DiscNumber": 3,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "防御值",
+            "MinorAttributionKey": [
+                "生命值",
+                "暴击伤害",
+                "生命值",
+                "防御值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20010,
+            "Name": "云岿如我[4]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 4,
+            "DiscNumber": 4,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "生命值",
+            "MinorAttributionKey": [
+                "防御值",
+                "暴击伤害",
+                "防御值",
+                "暴击伤害"
+            ],
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                }
+            ]
+        },
+        {
+            "ItemId": 20011,
+            "Name": "云岿如我[5]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 5,
+            "DiscNumber": 5,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "生命值",
+            "MinorAttributionKey": [
+                "暴击率",
+                "暴击率",
+                "暴击伤害",
+                "防御值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "暴击伤害",
+                    "Value": 0.02
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                }
+            ]
+        },
+        {
+            "ItemId": 20012,
+            "Name": "云岿如我[6]",
+            "Description": "提供基础生命增幅的驱动盘",
+            "IconKey": "drive_20002",
+            "ItemType": 2,
+            "Quality": 4,
+            "MaxStack": 1,
+            "CanStack": false,
+            "SetType": 2,
+            "SlotType": 6,
+            "DiscNumber": 6,
+            "FunctionName": "云岿如你",
+            "MainAttributionKey": "生命值",
+            "MinorAttributionKey": [
+                "暴击率",
+                "攻击力",
+                "防御值",
+                "生命值"
+            ],
+            "Attributes": [
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                },
+                {
+                    "Key": "暴击率",
+                    "Value": 0.01
+                },
+                {
+                    "Key": "攻击力",
+                    "Value": 10.0
+                },
+                {
+                    "Key": "防御值",
+                    "Value": 4.0
+                },
+                {
+                    "Key": "生命值",
+                    "Value": 15.0
+                }
+            ]
+        }
+    ]
+}
